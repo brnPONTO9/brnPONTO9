@@ -55,5 +55,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
-
+![Snake animation](https://github.com/BrunoLopes/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
 ###
