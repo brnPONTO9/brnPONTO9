@@ -10,10 +10,6 @@
 
 ###
 
-<h2 align="left">Stats</h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="34" alt="php logo"  />
   <img width="7" />
@@ -25,6 +21,10 @@
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
 </div>
+
+###
+
+<h2 align="left">Stats</h2>
 
 ###
 
@@ -55,6 +55,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
-
 
 ###
