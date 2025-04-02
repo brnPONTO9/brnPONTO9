@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Developer Front-End Júnior<br>- 1 Ano na área<br>- Front-End Developer ASAP<br>- Estudando Typescript</p>
+<p align="left">- Developer Front-End Júnior<br>- 1 Ano na área<br>- Front-End Developer ASAP<br>- Estudando Analise e Desenvolvimento de Sistemas</p>
 
 ###
 
