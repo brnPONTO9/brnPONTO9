@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Developer Front-End Júnior<br>- 2 Ano na área<br>- Developer ASAP<br>- Cursando Analise e Desenvolvimento de Sistemas</p>
+<p align="left">- Developer Front-End Júnior<br>- 2 Anos na área<br>- Developer ASAP<br>- Cursando Analise e Desenvolvimento de Sistemas</p>
 
 ###
 
