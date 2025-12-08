@@ -54,7 +54,7 @@
 
 ---
 
-## 🌈 Estilo de código
+## Estilo de código
 
 ```ts
 // Escrevo código pensando em clareza, manutenção e escalabilidade
