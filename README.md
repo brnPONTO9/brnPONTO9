@@ -1,5 +1,5 @@
 <!-- CABEÇALHO COM TÍTULO E SUBTÍTULO -->
-<h1 align="center">✨ Olá, eu sou o Thiago Nascimento</h1>
+<h1 align="center">✨ Olá, eu sou o Bruno Lopes</h1>
 
 <p align="center">
   Desenvolvedor focado em criar soluções eficientes, limpas e escaláveis.
@@ -22,8 +22,8 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando em projetos de **[descreva aqui]**
-- 🌱 Estudando **[tecnologias / stacks]**
+- 🔭 Atualmente trabalhando **[ASAP EMBALAGENS DEV JUNIOR]**
+- 🌱 Estudando **[Análise e Desenvolvimento de Sistemas]**
 - 💡 Gosto de **otimizar processos**, refatorar código e pensar em arquitetura
 - 🎯 Foco em **performance**, **boas práticas** e **experiência do usuário**
 
