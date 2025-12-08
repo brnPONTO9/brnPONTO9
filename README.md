@@ -7,7 +7,7 @@
 
 <!-- BADGES MODERNOS -->
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/brnPONTO9">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:brunosilva_2002@outlook.com">
