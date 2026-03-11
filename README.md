@@ -107,16 +107,8 @@ const dev = {
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════╗
-║  "Primeiro, resolva o problema.              ║
-║   Depois, escreva o código."                 ║
-║                          — John Johnson      ║
-╚══════════════════════════════════════════════╝
-```
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=brnPONTO9.brnPONTO9&left_color=gray&right_color=00d9ff)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=brnPONTO9.SEU_USERNAME&left_color=gray&right_color=00d9ff)
-
-**Feito com ❤️ e muito ☕**
+**brnPONTO9**
 
 </div>
