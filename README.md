@@ -8,7 +8,7 @@
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-# `{ Bruno Lopes }` &nbsp;·&nbsp; Junior Dev
+# `Bruno Lopes` &nbsp;·&nbsp; Desenvolvedor de Software JR
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Junior+%F0%9F%9A%80;Estudante+de+ADS+%F0%9F%8E%93;2+Anos+na+%C3%A1rea+tech+%F0%9F%92%BB;Apaixonado+por+c%C3%B3digo+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
@@ -22,13 +22,15 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
-
 ## `whoami`
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```javascript
 const dev = {
-  nome:       "Seu Nome Aqui",
+  nome:       "Bruno Lopes",
   role:       "Junior Developer",
   localizacao:"Brasil 🇧🇷",
   formacao:   "Análise e Desenvolvimento de Sistemas",
@@ -41,7 +43,14 @@ const dev = {
 };
 ```
 
-<br clear="right"/>
+</td>
+<td valign="center" width="45%" align="center">
+
+<img alt="Coding" width="340" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -75,8 +84,8 @@ const dev = {
 ## 📊 &nbsp; GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brnPONTO9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnPONTO9&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
@@ -88,7 +97,7 @@ const dev = {
 ## 🎯 &nbsp; Jornada de Aprendizado
 
 ```
-2023 ──────────────────────────────────────────────────────► Hoje
+2024 ──────────────────────────────────────────────────────► Hoje
   │                                                             │
   │  📌 Primeiro "Hello World"                                 │
   │       └─► HTML & CSS básico                                │
@@ -123,7 +132,7 @@ const dev = {
 ## 🐍 &nbsp; Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USERNAME/brnPONTO9/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/brnPONTO9/brnPONTO9/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -138,7 +147,7 @@ const dev = {
 ╚══════════════════════════════════════════════╝
 ```
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SEU_USERNAME.SEU_USERNAME&left_color=gray&right_color=00d9ff)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=brnPONTO9.SEU_USERNAME&left_color=gray&right_color=00d9ff)
 
 **Feito com ❤️ e muito ☕**
 
