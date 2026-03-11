@@ -85,29 +85,6 @@ const dev = {
 
 ---
 
-## 🎯 &nbsp; Jornada de Aprendizado
-
-```
-2024 ──────────────────────────────────────────────────────► Hoje
-  │                                                             │
-  │  📌 Primeiro "Hello World"                                 │
-  │       └─► HTML & CSS básico                                │
-  │                                                            │
-  │       📌 Lógica de programação                             │
-  │            └─► JavaScript & PHP                            │
-  │                                                            │
-  │                   📌 Banco de Dados                        │
-  │                        └─► MySQL                           │
-  │                                                            │
-  │                              📌 Frameworks                 │
-  │                                   └─► React & RN           │
-  │                                                            │
-  │                                          📌 ADS            │
-  │                                               └─► Cursando │
-  │                                                            │
-  └─── 2 anos construindo, aprendendo e crescendo ─────────► 🚀
-```
-
 ---
 
 ## 💡 &nbsp; Próximos Passos
