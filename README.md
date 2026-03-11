@@ -85,18 +85,6 @@ const dev = {
 
 ---
 
----
-
-## 💡 &nbsp; Próximos Passos
-
-- [ ] 🔷 &nbsp; Aprofundar em **TypeScript**
-- [ ] 🟢 &nbsp; Aprender **Node.js**
-- [ ] 🐳 &nbsp; Explorar **Docker**
-- [ ] ☁️ &nbsp; Estudar **Cloud (AWS/GCP)**
-- [ ] 🏆 &nbsp; Conquistar minha primeira vaga **Pleno**
-
----
-
 ## 🐍 &nbsp; Contribuições
 
 <div align="center">
