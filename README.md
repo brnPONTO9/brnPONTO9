@@ -1,13 +1,5 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║        < Olá, Mundo! /> · Hello, World! · Hola, Mundo!       ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
 # `Bruno Lopes` &nbsp;·&nbsp; Desenvolvedor de Software JR
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Junior+%F0%9F%9A%80;Estudante+de+ADS+%F0%9F%8E%93;2+Anos+na+%C3%A1rea+tech+%F0%9F%92%BB;Apaixonado+por+c%C3%B3digo+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
@@ -84,8 +76,8 @@ const dev = {
 ## 📊 &nbsp; GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brnPONTO9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnPONTO9&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
