@@ -75,8 +75,8 @@ const dev = {
 ## 📊 &nbsp; GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brnPONTO9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnPONTO9&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brnPONTO9&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brnPONTO9&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=brnPONTO9&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
