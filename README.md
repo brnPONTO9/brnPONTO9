@@ -27,18 +27,15 @@ const dev = {
   formacao:   "Análise e Desenvolvimento de Sistemas",
   experiencia:"2 anos na área",
   status:     "Sempre aprendendo... 📚",
-
   objetivo: () => {
     return "Transformar café em código ☕→💻";
   }
 };
-```
+` ` `
 
 </td>
 <td valign="center" width="45%" align="center">
-
 <img alt="Coding" width="340" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
-
 </td>
 </tr>
 </table>
@@ -75,8 +72,8 @@ const dev = {
 ## 📊 &nbsp; GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brnPONTO9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnPONTO9&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=brnPONTO9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=brnPONTO9&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=brnPONTO9&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
@@ -99,3 +96,14 @@ const dev = {
 **brnPONTO9**
 
 </div>
+```
+
+---
+
+A única mudança nos stats foi essa:
+
+| Antes | Depois |
+|---|---|
+| `github-readme-stats.vercel.app` | `github-stats-extended.vercel.app` |
+
+Se ainda não funcionar depois de salvar e esperar 1-2 minutos para o GitHub atualizar o cache, me avisa que a solução definitiva é você fazer seu próprio deploy no Vercel (é gratuito e leva 5 min).
