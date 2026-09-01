@@ -25,7 +25,7 @@ const dev = {
   role:       "Junior Developer",
   localizacao:"Brasil 🇧🇷",
   formacao:   "Análise e Desenvolvimento de Sistemas",
-  experiencia:"2 anos na área",
+  experiencia:"3 anos na área",
   status:     "Sempre aprendendo... 📚",
 
   objetivo: () => {
