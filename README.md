@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Bruno%20Lopes&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20JR&descSize=22&descAlignY=60" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=240&section=header&text=Bruno%20Lopes&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20PHP%20%C2%B7%20MySQL&descSize=20&descAlignY=60" width="100%" alt="Bruno Lopes" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=640&lines=Desenvolvedor+Junior+%F0%9F%9A%80;Estudante+de+ADS+%F0%9F%8E%93;3+anos+na+%C3%A1rea+tech+%F0%9F%92%BB;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Eu+construo+sistemas+do+banco+de+dados+at%C3%A9+a+tela+%F0%9F%9A%80;React+%2B+Node.js+%2B+MySQL+%7C+PHP+%2B+MySQL;Estudante+de+ADS+e+dev+full-stack+%F0%9F%8E%93;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-lopes-4a44b1367/)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:brunosilva_2002@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brnPONTO9)
-![Visitas](https://hits.sh/github.com/brnPONTO9.svg?style=for-the-badge&label=VISITAS&color=00d9ff&labelColor=555555)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:brunosilva_2002@outlook.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://brnponto9.github.io/portfolio-faculdade)
 ![Seguidores](https://img.shields.io/github/followers/brnPONTO9?style=for-the-badge&logo=github&color=00d9ff&labelColor=555555)
+![Visitas](https://hits.sh/github.com/brnPONTO9.svg?style=for-the-badge&label=VISITAS&color=00d9ff&labelColor=555555)
 
 </div>
 
 ---
 
-## 👨‍💻 &nbsp; Sobre mim
+## ⚡ &nbsp; Quem sou eu
 
 <table>
 <tr>
@@ -25,15 +25,16 @@
 ```javascript
 const bruno = {
   nome:        "Bruno Lopes",
-  role:        "Junior Developer",
-  localizacao: "Brasil 🇧🇷",
+  role:        "Full-Stack Developer",
+  base:        "São Paulo, Brasil 🇧🇷",
   formacao:    "Análise e Desenvolvimento de Sistemas",
-  experiencia: "3 anos na área",
-  foco:        ["Front-end", "Back-end", "Mobile"],
-  status:      "Sempre aprendendo... 📚",
+  stack:       ["React", "Node.js", "PHP", "MySQL"],
+  fazBem:      ["Sistemas de gestão", "APIs", "Interfaces limpas"],
+  tambem:      ["TypeScript", "React Native", "Docker"],
+  status:      "Atuando como desenvolvedor 💼",
 
-  objetivo() {
-    return "Transformar café em código ☕ → 💻";
+  motto() {
+    return "Do banco de dados à tela. ☕ → 💻";
   }
 };
 ```
@@ -49,25 +50,81 @@ const bruno = {
 
 ---
 
-## 🛠️ &nbsp; Stack de Tecnologias
+## 🚀 &nbsp; Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐨 Koala — Gestão Financeira Pessoal
+App web gratuito para controlar receitas e despesas, definir metas e acompanhar relatórios financeiros.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[🔗 **Ver demo**](https://novofinan.vercel.app) &nbsp;·&nbsp; [📂 Código](https://github.com/brnPONTO9/projeto-extensao-elida)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐾 PetShop Manager
+Sistema de gestão para pet shop com login, cadastro de pets e produtos com upload de fotos, API e banco de dados.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[📂 **Ver código**](https://github.com/brnPONTO9/petshop)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 CashFlow — Controle Financeiro Full-Stack
+Aplicação com backend em Node/Express e MySQL: lança entradas e saídas e calcula o saldo em tempo real.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+[📂 **Ver código**](https://github.com/brnPONTO9/projeto-cashflow-main)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 BOT-FULL — Chatbot de WhatsApp
+Chatbot de atendimento para WhatsApp com Node.js, Express e whatsapp-web.js, conectado por QR Code e rodando em Docker.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[📂 **Ver código**](https://github.com/brnPONTO9/BOT-FULL)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ &nbsp; Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,nodejs&theme=dark" alt="Stack principal" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,php,mysql,docker,git,github,vercel,vscode&theme=dark&perline=8" alt="Stack" />
 
 <br/><br/>
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 &nbsp; GitHub Stats
+## 📊 &nbsp; GitHub em números
 
 <div align="center">
 
@@ -96,10 +153,16 @@ const bruno = {
 
 ---
 
+## 🤝 &nbsp; Bora trocar uma ideia?
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=Obrigado+por+visitar+meu+perfil+%F0%9F%91%8B;Vamos+construir+algo+incr%C3%ADvel+juntos+%E2%9C%A8" alt="Footer typing" />
+Quer conversar sobre tecnologia, projetos ou colaborar em algo?
+Me chama no LinkedIn ou por e-mail. 👇
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer" />
+[![LinkedIn](https://img.shields.io/badge/Falar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-lopes-4a44b1367/)
+[![Email](https://img.shields.io/badge/Enviar_e--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:brunosilva_2002@outlook.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
