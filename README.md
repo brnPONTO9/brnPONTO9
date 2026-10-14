@@ -12,8 +12,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22)](https://www.linkedin.com/in/bruno-lopes-4a44b1367/)
 [![E-mail](https://img.shields.io/badge/E--mail-161B22?style=for-the-badge&logo=microsoftoutlook&logoColor=58A6FF&labelColor=161B22)](mailto:brunosilva_2002@outlook.com)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=161B22)](https://brnponto9.github.io/portfolio-faculdade)
-![Seguidores](https://img.shields.io/github/followers/brnPONTO9?style=for-the-badge&logo=github&logoColor=58A6FF&color=161B22&labelColor=161B22)
 
 </div>
 
@@ -21,8 +19,8 @@
 
 ## Sobre
 
-Desenvolvedor full-stack em formação (Análise e Desenvolvimento de Sistemas), baseado em São Paulo.
-Construo aplicações completas, do modelo de dados à interface: sistemas de gestão, APIs e automações,
+Desenvolvedor full-stack com 5 anos de atuação na área, em formação em Análise e Desenvolvimento de Sistemas.
+Baseado em São Paulo, construo aplicações completas, do modelo de dados à interface: sistemas de gestão, APIs e automações,
 com foco em código limpo e produto que funciona.
 
 <br/>
