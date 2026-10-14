@@ -9,7 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-lopes-4a44b1367/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:brunosilva_2002@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brnPONTO9)
-![Views](https://komarev.com/ghpvc/?username=brnPONTO9&style=for-the-badge&color=00d9ff&label=VISITAS)
+![Visitas](https://hits.sh/github.com/brnPONTO9.svg?style=for-the-badge&label=VISITAS&color=00d9ff&labelColor=555555)
+![Seguidores](https://img.shields.io/github/followers/brnPONTO9?style=for-the-badge&logo=github&color=00d9ff&labelColor=555555)
 
 </div>
 
