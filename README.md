@@ -1,168 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=240&section=header&text=Bruno%20Lopes&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20PHP%20%C2%B7%20MySQL&descSize=20&descAlignY=60" width="100%" alt="Bruno Lopes" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=170&section=header&text=Bruno%20Lopes&fontSize=54&fontColor=E6EDF3&fontAlignY=42&desc=Full-Stack%20Developer&descSize=20&descColor=58A6FF&descAlignY=70" width="100%" alt="Bruno Lopes — Full-Stack Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Eu+construo+sistemas+do+banco+de+dados+at%C3%A9+a+tela+%F0%9F%9A%80;React+%2B+Node.js+%2B+MySQL+%7C+PHP+%2B+MySQL;Estudante+de+ADS+e+dev+full-stack+%F0%9F%8E%93;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-lopes-4a44b1367/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:brunosilva_2002@outlook.com)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://brnponto9.github.io/portfolio-faculdade)
-![Seguidores](https://img.shields.io/github/followers/brnPONTO9?style=for-the-badge&logo=github&color=00d9ff&labelColor=555555)
-![Visitas](https://hits.sh/github.com/brnPONTO9.svg?style=for-the-badge&label=VISITAS&color=00d9ff&labelColor=555555)
-
-</div>
-
----
-
-## ⚡ &nbsp; Quem sou eu
-
-<table>
-<tr>
-<td valign="top" width="58%">
-
-```javascript
-const bruno = {
-  nome:        "Bruno Lopes",
-  role:        "Full-Stack Developer",
-  base:        "São Paulo, Brasil 🇧🇷",
-  formacao:    "Análise e Desenvolvimento de Sistemas",
-  stack:       ["React", "Node.js", "PHP", "MySQL"],
-  fazBem:      ["Sistemas de gestão", "APIs", "Interfaces limpas"],
-  tambem:      ["TypeScript", "React Native", "Docker"],
-  status:      "Atuando como desenvolvedor 💼",
-
-  motto() {
-    return "Do banco de dados à tela. ☕ → 💻";
-  }
-};
-```
-
-</td>
-<td valign="middle" width="42%" align="center">
-
-<img alt="Coding" width="340" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 &nbsp; Projetos em destaque
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐨 Koala — Gestão Financeira Pessoal
-App web gratuito para controlar receitas e despesas, definir metas e acompanhar relatórios financeiros.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-[🔗 **Ver demo**](https://novofinan.vercel.app) &nbsp;·&nbsp; [📂 Código](https://github.com/brnPONTO9/projeto-extensao-elida)
-
-</td>
-<td width="50%" valign="top">
-
-### 🐾 PetShop Manager
-Sistema de gestão para pet shop com login, cadastro de pets e produtos com upload de fotos, API e banco de dados.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-[📂 **Ver código**](https://github.com/brnPONTO9/petshop)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💰 CashFlow — Controle Financeiro Full-Stack
-Aplicação com backend em Node/Express e MySQL: lança entradas e saídas e calcula o saldo em tempo real.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-
-[📂 **Ver código**](https://github.com/brnPONTO9/projeto-cashflow-main)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 BOT-FULL — Chatbot de WhatsApp
-Chatbot de atendimento para WhatsApp com Node.js, Express e whatsapp-web.js, conectado por QR Code e rodando em Docker.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-[📂 **Ver código**](https://github.com/brnPONTO9/BOT-FULL)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ &nbsp; Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,php,mysql,docker,git,github,vercel,vscode&theme=dark&perline=8" alt="Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1500&color=8B949E&center=true&vCenter=true&width=720&lines=Do+banco+de+dados+%C3%A0+interface.;React+%C2%B7+Node.js+%C2%B7+PHP+%C2%B7+MySQL;Sistemas+de+gest%C3%A3o%2C+APIs+e+automa%C3%A7%C3%B5es." alt="Typing" />
 
 <br/><br/>
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22)](https://www.linkedin.com/in/bruno-lopes-4a44b1367/)
+[![E-mail](https://img.shields.io/badge/E--mail-161B22?style=for-the-badge&logo=microsoftoutlook&logoColor=58A6FF&labelColor=161B22)](mailto:brunosilva_2002@outlook.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF&labelColor=161B22)](https://brnponto9.github.io/portfolio-faculdade)
+![Seguidores](https://img.shields.io/github/followers/brnPONTO9?style=for-the-badge&logo=github&logoColor=58A6FF&color=161B22&labelColor=161B22)
 
 </div>
-
----
-
-## 📊 &nbsp; GitHub em números
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=brnPONTO9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnPONTO9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=8" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=brnPONTO9&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="Streak stats" />
+## Sobre
+
+Desenvolvedor full-stack em formação (Análise e Desenvolvimento de Sistemas), baseado em São Paulo.
+Construo aplicações completas, do modelo de dados à interface: sistemas de gestão, APIs e automações,
+com foco em código limpo e produto que funciona.
+
+<br/>
+
+## Projetos
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Koala — Gestão Financeira Pessoal](https://github.com/brnPONTO9/projeto-extensao-elida)**
+<br/>App web para controle de receitas e despesas, metas e relatórios.
+<br/><sub>`React` · `JavaScript` · `Vercel`</sub>
+<br/><sub>[Ver demo](https://novofinan.vercel.app) · [Código](https://github.com/brnPONTO9/projeto-extensao-elida)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[PetShop Manager](https://github.com/brnPONTO9/petshop)**
+<br/>Sistema de gestão para pet shop: autenticação, pets, produtos e upload de imagens.
+<br/><sub>`PHP` · `MySQL` · `CSS`</sub>
+<br/><sub>[Código](https://github.com/brnPONTO9/petshop)</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[CashFlow — Controle Financeiro](https://github.com/brnPONTO9/projeto-cashflow-main)**
+<br/>Aplicação full-stack com API própria: lançamentos de entrada e saída e saldo em tempo real.
+<br/><sub>`Node.js` · `Express` · `MySQL`</sub>
+<br/><sub>[Código](https://github.com/brnPONTO9/projeto-cashflow-main)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**[BOT-FULL — Chatbot de WhatsApp](https://github.com/brnPONTO9/BOT-FULL)**
+<br/>Chatbot de atendimento para WhatsApp com conexão por QR Code, executado em container.
+<br/><sub>`Node.js` · `whatsapp-web.js` · `Docker`</sub>
+<br/><sub>[Código](https://github.com/brnPONTO9/BOT-FULL)</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Stack
+
+<table>
+<tr>
+<td width="140" valign="middle"><sub><b>FRONT-END</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&theme=dark" alt="Front-end" /></td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>BACK-END</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" alt="Back-end" /></td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>BANCO DE DADOS</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Banco de dados" /></td>
+</tr>
+<tr>
+<td valign="middle"><sub><b>FERRAMENTAS</b></sub></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode&theme=dark" alt="Ferramentas" /></td>
+</tr>
+</table>
+
+<br/>
+
+## Métricas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=brnPONTO9&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnPONTO9&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=brnPONTO9&theme=github-dark-blue&hide_border=false&border=30363D&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=8" alt="Streak" />
 
 </div>
 
----
+<br/>
 
-## 🐍 &nbsp; Contribuições
+## Atividade
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brnPONTO9/brnPONTO9/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brnPONTO9/brnPONTO9/output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/brnPONTO9/brnPONTO9/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/brnPONTO9/brnPONTO9/output/snake-dark.svg" />
 </picture>
 
 </div>
 
----
+<br/>
 
-## 🤝 &nbsp; Bora trocar uma ideia?
+## Contato
 
-<div align="center">
+Aberto a conversas sobre tecnologia, projetos e colaboração.
+[LinkedIn](https://www.linkedin.com/in/bruno-lopes-4a44b1367/) · [brunosilva_2002@outlook.com](mailto:brunosilva_2002@outlook.com)
 
-Quer conversar sobre tecnologia, projetos ou colaborar em algo?
-Me chama no LinkedIn ou por e-mail. 👇
-
-[![LinkedIn](https://img.shields.io/badge/Falar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-lopes-4a44b1367/)
-[![Email](https://img.shields.io/badge/Enviar_e--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:brunosilva_2002@outlook.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20&height=120&section=footer" width="100%" alt="Footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=70&section=footer" width="100%" alt="" />
