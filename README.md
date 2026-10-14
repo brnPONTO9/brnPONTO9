@@ -17,58 +17,90 @@
 
 <br/>
 
-## Sobre
+<h2 align="center">Sobre</h2>
 
-Desenvolvedor full-stack com 5 anos de atuação na área, em formação em Análise e Desenvolvimento de Sistemas.
-Baseado em São Paulo, construo aplicações completas, do modelo de dados à interface: sistemas de gestão, APIs e automações,
-com foco em código limpo e produto que funciona.
+<div align="center">
+
+Desenvolvedor full-stack com 5 anos de atuação na área, em formação em Análise e Desenvolvimento de Sistemas.<br/>
+Baseado em São Paulo, construo aplicações completas, do modelo de dados à interface:<br/>
+sistemas de gestão, APIs e automações, com foco em código limpo e produto que funciona.
+
+</div>
 
 <br/>
 
-## Projetos
+<h2 align="center">Projetos</h2>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**[Koala — Gestão Financeira Pessoal](https://github.com/brnPONTO9/projeto-extensao-elida)**
-<br/>App web para controle de receitas e despesas, metas e relatórios.
-<br/><sub>`React` · `JavaScript` · `Vercel`</sub>
-<br/><sub>[Ver demo](https://novofinan.vercel.app) · [Código](https://github.com/brnPONTO9/projeto-extensao-elida)</sub>
-
+<td align="center" valign="top" width="50%">
+<br/>
+<h3>Koala</h3>
+<sub>Gestão financeira pessoal</sub>
+<br/><br/>
+App web para controlar receitas e despesas,<br/>definir metas e acompanhar relatórios.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+<br/><br/>
+<a href="https://novofinan.vercel.app"><img src="https://img.shields.io/badge/VER_DEMO-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Ver demo" /></a> &nbsp;<a href="https://github.com/brnPONTO9/projeto-extensao-elida"><img src="https://img.shields.io/badge/C%C3%93DIGO-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Código" /></a>
+<br/><br/>
 </td>
-<td width="50%" valign="top">
-
-**[PetShop Manager](https://github.com/brnPONTO9/petshop)**
-<br/>Sistema de gestão para pet shop: autenticação, pets, produtos e upload de imagens.
-<br/><sub>`PHP` · `MySQL` · `CSS`</sub>
-<br/><sub>[Código](https://github.com/brnPONTO9/petshop)</sub>
-
+<td align="center" valign="top" width="50%">
+<br/>
+<h3>PetShop Manager</h3>
+<sub>Sistema de gestão</sub>
+<br/><br/>
+Gestão de pet shop com autenticação,<br/>cadastro de pets e produtos e upload de imagens.
+<br/><br/>
+<img src="https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
+<img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+<img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+<br/><br/>
+<a href="https://github.com/brnPONTO9/petshop"><img src="https://img.shields.io/badge/C%C3%93DIGO-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Código" /></a>
+<br/><br/>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**[CashFlow — Controle Financeiro](https://github.com/brnPONTO9/projeto-cashflow-main)**
-<br/>Aplicação full-stack com API própria: lançamentos de entrada e saída e saldo em tempo real.
-<br/><sub>`Node.js` · `Express` · `MySQL`</sub>
-<br/><sub>[Código](https://github.com/brnPONTO9/projeto-cashflow-main)</sub>
-
+<td align="center" valign="top" width="50%">
+<br/>
+<h3>CashFlow</h3>
+<sub>Controle financeiro full-stack</sub>
+<br/><br/>
+Aplicação com API própria para lançar entradas<br/>e saídas e acompanhar o saldo em tempo real.
+<br/><br/>
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
+<img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+<br/><br/>
+<a href="https://github.com/brnPONTO9/projeto-cashflow-main"><img src="https://img.shields.io/badge/C%C3%93DIGO-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Código" /></a>
+<br/><br/>
 </td>
-<td width="50%" valign="top">
-
-**[BOT-FULL — Chatbot de WhatsApp](https://github.com/brnPONTO9/BOT-FULL)**
-<br/>Chatbot de atendimento para WhatsApp com conexão por QR Code, executado em container.
-<br/><sub>`Node.js` · `whatsapp-web.js` · `Docker`</sub>
-<br/><sub>[Código](https://github.com/brnPONTO9/BOT-FULL)</sub>
-
+<td align="center" valign="top" width="50%">
+<br/>
+<h3>BOT-FULL</h3>
+<sub>Chatbot de WhatsApp</sub>
+<br/><br/>
+Chatbot de atendimento com conexão<br/>por QR Code, executado em container.
+<br/><br/>
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+<img src="https://img.shields.io/badge/WhatsApp-161B22?style=flat-square&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
+<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+<br/><br/>
+<a href="https://github.com/brnPONTO9/BOT-FULL"><img src="https://img.shields.io/badge/C%C3%93DIGO-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Código" /></a>
+<br/><br/>
 </td>
 </tr>
 </table>
 
+</div>
+
 <br/>
 
-## Stack
+<h2 align="center">Stack</h2>
 
 <div align="center">
 
@@ -94,7 +126,7 @@ com foco em código limpo e produto que funciona.
 
 <br/>
 
-## Métricas
+<h2 align="center">Métricas</h2>
 
 <div align="center">
 
@@ -109,7 +141,7 @@ com foco em código limpo e produto que funciona.
 
 <br/>
 
-## Atividade
+<h2 align="center">Atividade</h2>
 
 <div align="center">
 
@@ -123,7 +155,11 @@ com foco em código limpo e produto que funciona.
 
 <br/>
 
-## Contato
+<h2 align="center">Contato</h2>
 
-Aberto a conversas sobre tecnologia, projetos e colaboração.
-[LinkedIn](https://www.linkedin.com/in/bruno-lopes-4a44b1367/) · [brunosilva_2002@outlook.com](mailto:brunosilva_2002@outlook.com)
+<div align="center">
+
+Aberto a conversas sobre tecnologia, projetos e colaboração.<br/>
+<a href="https://www.linkedin.com/in/bruno-lopes-4a44b1367/">LinkedIn</a> · <a href="mailto:brunosilva_2002@outlook.com">brunosilva_2002@outlook.com</a>
+
+</div>
