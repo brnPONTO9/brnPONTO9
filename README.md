@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=170&section=header&text=Bruno%20Lopes&fontSize=54&fontColor=E6EDF3&fontAlignY=42&desc=Full-Stack%20Developer&descSize=20&descColor=58A6FF&descAlignY=70" width="100%" alt="Bruno Lopes — Full-Stack Developer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=0:0D1117&height=140&section=header&text=Bruno%20Lopes&fontSize=54&fontColor=E6EDF3&fontAlignY=48&desc=Full-Stack%20Developer&descSize=20&descAlignY=76" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&color=0:FFFFFF&height=140&section=header&text=Bruno%20Lopes&fontSize=54&fontColor=1F2328&fontAlignY=48&desc=Full-Stack%20Developer&descSize=20&descAlignY=76" />
+  <img alt="Bruno Lopes — Full-Stack Developer" src="https://capsule-render.vercel.app/api?type=transparent&color=0:0D1117&height=140&section=header&text=Bruno%20Lopes&fontSize=54&fontColor=E6EDF3&fontAlignY=48&desc=Full-Stack%20Developer&descSize=20&descAlignY=76" width="100%" />
+</picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1500&color=8B949E&center=true&vCenter=true&width=720&lines=Do+banco+de+dados+%C3%A0+interface.;React+%C2%B7+Node.js+%C2%B7+PHP+%C2%B7+MySQL;Sistemas+de+gest%C3%A3o%2C+APIs+e+automa%C3%A7%C3%B5es." alt="Typing" />
 
@@ -68,24 +72,27 @@ com foco em código limpo e produto que funciona.
 
 ## Stack
 
-<table>
-<tr>
-<td width="140" valign="middle"><sub><b>FRONT-END</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&theme=dark" alt="Front-end" /></td>
-</tr>
-<tr>
-<td valign="middle"><sub><b>BACK-END</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" alt="Back-end" /></td>
-</tr>
-<tr>
-<td valign="middle"><sub><b>BANCO DE DADOS</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Banco de dados" /></td>
-</tr>
-<tr>
-<td valign="middle"><sub><b>FERRAMENTAS</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode&theme=dark" alt="Ferramentas" /></td>
-</tr>
-</table>
+<div align="center">
+
+<sub><b>FRONT-END</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&theme=dark" alt="Front-end" />
+
+<br/>
+
+<sub><b>BACK-END</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" alt="Back-end" />
+
+<br/>
+
+<sub><b>BANCO DE DADOS</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Banco de dados" />
+
+<br/>
+
+<sub><b>FERRAMENTAS</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode&theme=dark" alt="Ferramentas" />
+
+</div>
 
 <br/>
 
@@ -122,5 +129,3 @@ com foco em código limpo e produto que funciona.
 
 Aberto a conversas sobre tecnologia, projetos e colaboração.
 [LinkedIn](https://www.linkedin.com/in/bruno-lopes-4a44b1367/) · [brunosilva_2002@outlook.com](mailto:brunosilva_2002@outlook.com)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:0D1117&height=70&section=footer" width="100%" alt="" />
