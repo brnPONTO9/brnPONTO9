@@ -93,7 +93,7 @@ com foco em código limpo e produto que funciona.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=brnPONTO9&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=brnPONTO9&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=8" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnPONTO9&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&langs_count=8" alt="Top languages" />
 
 <br/>
