@@ -115,9 +115,7 @@ Chatbot de atendimento com conexão<br/>por QR Code, executado em container.
 <br/>
 
 <sub><b>BANCO DE DADOS</b></sub><br/>
-<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-<img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="SQL" />
-<img src="https://img.shields.io/badge/Oracle-161B22?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHJlY3QgeD0nMS41JyB5PSc2LjUnIHdpZHRoPScyMScgaGVpZ2h0PScxMScgcng9JzUuNScgZmlsbD0nbm9uZScgc3Ryb2tlPScjRjgwMDAwJyBzdHJva2Utd2lkdGg9JzMnLz48L3N2Zz4%3D" alt="Oracle" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,plsql,oracle&theme=dark" alt="Banco de dados" />
 
 <br/>
 
